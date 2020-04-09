@@ -4,7 +4,7 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
-  background:url(images/circuitwire.gif);
+  background:url(images/rotatingbox.gif);
   text-align: center;
   align-content: center;
 }
@@ -15,7 +15,7 @@ body {
   Width: 450px;
   height: 400px;
   margin:100px auto;
-  background:url(images/chip.jpeg);
+  background-color: white;
   position: relative center;
   border-style: ridge;
   outline-style: solid;
@@ -27,7 +27,7 @@ h1 {
   color: black;
   border-style: solid;
   border-width: thin;
-  background-color: gray;
+  background-color: orange;
 }
 
 h2{
