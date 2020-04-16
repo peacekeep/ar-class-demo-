@@ -1,0 +1,71 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  background:url(images/rotatingbox.gif);
+  text-align: center;
+  align-content: center;
+}
+
+
+.container
+{
+  Width: 450px;
+  height: 400px;
+  margin:100px auto;
+  background-color: white;
+  position: relative center;
+  border-style: ridge;
+  outline-style: solid;
+  border-color: orange;
+  border-width: 30px;
+}
+
+h1 {
+  color: black;
+  border-style: solid;
+  border-width: thin;
+  background-color: orange;
+}
+
+h2{
+  color: black;
+  border-style: solid;
+  border-width: thin;
+  border-color: black;
+  background-color: gray;
+  text-align: center;
+
+}
+
+/* link text */
+a {
+color: blue;
+text-decoration: none;
+}
+
+a:hover {
+      color: black;
+    }
+
+img{
+  display: block;
+  border-style: ridge;
+  border-width: 30px;
+  border-color: orange;
+  outline-style: solid;
+  outline-color: black;
+  margin: 0px auto;
+}
+
+video{
+  display: block;
+  border-style: ridge;
+  border-width: 30px;
+  border-color: orange;
+  outline-style: solid;
+  outline-color: black;
+  margin: 0px auto;
+}
